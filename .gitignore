@@ -1,0 +1,11 @@
+# The unencrypted source HTML and the encryption script must NEVER be committed.
+# If they were committed, anyone could read the un-protected content from GitHub.
+source.html
+encrypt.js
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
